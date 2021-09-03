@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 25,
+    "height" : 19
+  }, {
+    "width" : 50,
+    "height" : 38
+  }, {
+    "width" : 100,
+    "height" : 75
+  }, {
+    "width" : 200,
+    "height" : 149
+  }, {
+    "width" : 400,
+    "height" : 297
+  }, {
+    "width" : 800,
+    "height" : 594
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 800,
+  "@id" : "https://ginkgo97.github.io/William-Turner/images/the-fighting-temeraire",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 594
+}
