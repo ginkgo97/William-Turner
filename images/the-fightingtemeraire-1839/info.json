@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 178,
+    "height" : 133
+  }, {
+    "width" : 356,
+    "height" : 265
+  }, {
+    "width" : 711,
+    "height" : 529
+  }, {
+    "width" : 1421,
+    "height" : 1057
+  }, {
+    "width" : 2842,
+    "height" : 2113
+  }, {
+    "width" : 5684,
+    "height" : 4226
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5684,
+  "@id" : "https://ginkgo97.github.io/William-Turner/images/the-fightingtemeraire-1839",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4226
+}
