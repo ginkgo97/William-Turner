@@ -1,0 +1,66 @@
+{
+  "id" : "https://ginkgo97.github.io/William-Turner/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in ginkgo97/William-Turner project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 800,
+    "id" : "https://ginkgo97.github.io/William-Turner/images/the-fighting-temeraire/canvas/",
+    "label" : {
+      "none" : [ "the-fighting-temeraire" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://ginkgo97.github.io/William-Turner/images/the-fighting-temeraire/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://ginkgo97.github.io/William-Turner/images/the-fighting-temeraire/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 25,
+              "height" : 19
+            }, {
+              "width" : 50,
+              "height" : 38
+            }, {
+              "width" : 100,
+              "height" : 75
+            }, {
+              "width" : 200,
+              "height" : 149
+            }, {
+              "width" : 400,
+              "height" : 297
+            }, {
+              "width" : 800,
+              "height" : 594
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 800,
+            "@id" : "https://ginkgo97.github.io/William-Turner/images/the-fighting-temeraire",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 594
+          } ],
+          "format" : "image/jpeg",
+          "width" : 800,
+          "id" : "https://ginkgo97.github.io/William-Turner/images/the-fighting-temeraire/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 594
+        },
+        "target" : "https://ginkgo97.github.io/William-Turner/images/the-fighting-temeraire/canvas/"
+      } ]
+    } ],
+    "height" : 594
+  } ]
+}
